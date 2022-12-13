@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:0FC700&height=400&text=welcome&fontSize=95&fontColor=2B611A&fontAlignY=35&animation=fadeIn&desc=HeeSeon's%20GitHub&descSize=35&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E5FF00,100:0FC700&height=300&text=welcome&fontSize=95&fontColor=183E0C&fontAlignY=35&animation=fadeIn&desc=HeeSeon's%20GitHub&descSize=35&descAlignY=55)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsgh085&show_icons=true&theme=radical)
 
 <!--
