@@ -5,13 +5,13 @@
   <div>
     안녕하세요🖐️<br/>
     현재 프론트엔드를 공부 중인 대학생입니다!</br>
-    어제보다 더 나은 오늘의 내가 되기 위해서 열심히 공부중입니다📝
+    어제보다 더 나은 오늘의 내가 되기 위해서 열심히 공부중입니다!!📝
   </div>
   
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsgh085&show_icons=true&theme=radical) -->
   </br>
   </br>
-  <p>🌟백준 랭킹🌟</p>
+  <h2>🌟백준 랭킹🌟</h2>
   
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lynn917)](https://solved.ac/lynn917/)
