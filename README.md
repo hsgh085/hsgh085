@@ -1,7 +1,6 @@
 <div align=center>
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E5FF00,100:0FC700&height=300&text=welcome&fontSize=95&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=HeeSeon's%20GitHub&descSize=35&descAlignY=55)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsgh085&show_icons=true&theme=radical)
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 </div>
 <!--
 **hsgh085/hsgh085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
