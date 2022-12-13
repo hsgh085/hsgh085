@@ -5,7 +5,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsgh085&show_icons=true&theme=radical)
   
-  ###🌟백준 랭킹🌟
+  <h2>🌟백준 랭킹🌟</h2>
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lynn917)](https://solved.ac/lynn917/)
   
